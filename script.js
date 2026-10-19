@@ -3,9 +3,9 @@
 
 // The three original photographs
 const photos = {
-  chairs: "images/chairs.jpg",
-  sushi: "images/sushi.jpg",
-  chalk: "images/chalk.jpg"
+    chairs: "chairs.jpg",
+    sushi: "sushi.jpg",
+    chalk: "chalk.jpg"
 };
 
 // Two stories using the same photographs
